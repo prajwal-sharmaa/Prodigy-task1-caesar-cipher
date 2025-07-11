@@ -12,6 +12,6 @@ Built with beginner-friendly Python code and clean CLI interaction.
 - Ignores special characters, numbers & spaces
 - Fully interactive CLI with input prompts
 
-## 🚀 How to Run
+# 🚀 How to Run
 ```bash
 python caesar_cipher.py
