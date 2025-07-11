@@ -1,2 +1,17 @@
-# Prodigy-task1-caesar-cipher
-A Python program designed to encrypt and decrypt text using the Caesar Cipher algorithm. It allows users to input a custom message along with a shift value, enabling both encryption and decryption operations seamlessly.
+# 🔐 Caesar Cipher Tool – Prodigy Internship Task #1
+
+This is a Python program that allows users to **encrypt** and **decrypt** text using the **Caesar Cipher** algorithm.
+
+## 📜 About
+This project is part of the **Prodigy InfoTech Internship Program (Task #1)**.  
+Built with beginner-friendly Python code and clean CLI interaction.
+
+## 🧠 Features
+- Encrypt or Decrypt any message
+- Handles upper/lowercase characters
+- Ignores special characters, numbers & spaces
+- Fully interactive CLI with input prompts
+
+## 🚀 How to Run
+```bash
+python caesar_cipher.py
